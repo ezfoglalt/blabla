@@ -2,4 +2,4 @@ language: csharp
 solution: Valami007.sln
 instal:
 - sudoapt-get instal -y gtk-sharp2
-- niget restore Valami007.sln
+- nuget restore Valami007.sln
