@@ -1,0 +1,6 @@
+c:\users\dmpapada\documents\visual studio 2015\Projects\Valalmi007\Valalmi007\bin\Debug\Valalmi007.exe.config
+c:\users\dmpapada\documents\visual studio 2015\Projects\Valalmi007\Valalmi007\bin\Debug\Valalmi007.exe
+c:\users\dmpapada\documents\visual studio 2015\Projects\Valalmi007\Valalmi007\bin\Debug\Valalmi007.pdb
+c:\users\dmpapada\documents\visual studio 2015\Projects\Valalmi007\Valalmi007\obj\Debug\Valalmi007.csprojResolveAssemblyReference.cache
+c:\users\dmpapada\documents\visual studio 2015\Projects\Valalmi007\Valalmi007\obj\Debug\Valalmi007.exe
+c:\users\dmpapada\documents\visual studio 2015\Projects\Valalmi007\Valalmi007\obj\Debug\Valalmi007.pdb
